@@ -18,9 +18,9 @@ step5: now run this cmd which give ous name our branch to main
 
 step6: before push run these cmds
 
-git add .
-git commit -m "message"
+"git add ."
+"git commit -m "message"
 
 step6: then push
-git push origin main
+"git push origin main"
 
