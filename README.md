@@ -12,7 +12,7 @@ step4: linked with github using cmd
 
 "git remote add origin "repo_url"
 
-step5: now run this cmd which name our branch to main
+step5: now run this cmd which give ous name our branch to main
 
 "git branch -M main"
 
