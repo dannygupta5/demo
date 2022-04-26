@@ -4,7 +4,7 @@
 
 step1: first create blank repo in github
 
-step2: then what folder we want to push open into gitbash
+step2: then what folder we want to push open into gitbash/cmd
 
 step:3  Use command  "git init" to initialize local git repo 
 
