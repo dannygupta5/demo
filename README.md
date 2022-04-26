@@ -8,7 +8,7 @@ step2: then what folder we want to push open into gitbash
 
 step:3  Use command  "git init" to initialize local git repo 
 
-step4: link with github using cmd
+step4: linked with github using cmd
 
 "git remote add origin "repo_url"
 
